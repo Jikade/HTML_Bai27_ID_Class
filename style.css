@@ -1,0 +1,19 @@
+#doanvanthu2 {
+  color: brown;
+  font-size: 20px;
+}
+
+.demo {
+  color: chartreuse;
+  font-size: 30px;
+}
+
+.demo2 {
+  color: darkblue;
+  font-size: 40px;
+}
+
+.ul_class1 {
+  list-style: none;
+  color: tomato;
+}
